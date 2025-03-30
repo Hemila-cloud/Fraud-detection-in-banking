@@ -1,4 +1,4 @@
-# Fraudulent transcation detection in banking
+# Fraudulent transacation detection in banking
 
 
 ## Project Overview
